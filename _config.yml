@@ -1,0 +1,28 @@
+name: 'chen&coey'
+favicon: null
+layout_spectrum: 0.22952361777424812
+typography_spectrum: 0.1709653518628329
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6579333301633596
+  lightness: 0.24720496451482177
+  saturation: 0.7813304753508419
+  rhythmicContrast: 0.2851834874600172
+purpose: []
