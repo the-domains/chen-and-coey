@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[chen&coey]]></title>
+        <description><![CDATA[chen&coey]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 23 Nov 2015 00:00:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[对不起啊]]></title>
+            <description><![CDATA[<article><h1>对不起啊</h1><p>Hey，可以不要生气了吗？</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf6a5018-a5a9-4c20-8300-a65ed30803be.JPG"></article>]]></description>
+            <link>undefined31b4d5ff-06a9-47d4-802b-26393dc7a3f5/index.html</link>
+            <guid isPermaLink="false">31b4d5ff-06a9-47d4-802b-26393dc7a3f5</guid>
+            <pubDate>Sun, 22 Nov 2015 23:59:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
